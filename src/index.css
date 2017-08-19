@@ -1,0 +1,11 @@
+body{
+  font-family: 'Helvetica Neue';
+  background: darkred;
+}
+
+.title{
+  color: white;
+}
+.subtitle{
+  color: #ff9a63;
+}
